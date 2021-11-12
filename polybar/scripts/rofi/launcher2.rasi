@@ -35,7 +35,7 @@ window {
     height:                         90%;
 	width:							94%;
     location:                       northwest;
-    x-offset:                        3%;
+    x-offset:                        2%;
     y-offset:                        50;
 }
 
